@@ -1,5 +1,9 @@
 This repository includes the script from my machine learning class. 
+
 The Identifying Special Matrices: A Python project that detects and classifies special matrices before performing operations such as inversion or eigenvalue computation. The program identifies cases like singular matrices to prevent errors and improve the reliability of linear algebra and data analysis workflows.
+
 The Gram Schmid Process: A Python implementation of the Gram–Schmidt process for constructing an orthonormal basis from a set of vectors. The project also determines the dimension of the vector space spanned by the input vectors, providing practical experience with linear algebra and vector transformations.
+
 Reflecting Bear: A Python project that applies change-of-basis techniques to construct transformation matrices and simulate reflections in an angled mirror. The project demonstrates how complex transformations can be simplified by working in a more convenient basis.
+
 Page Rank: A Python implementation of the PageRank algorithm that uses eigenvectors and eigenvalues to rank webpages in a network. The project explores how PageRank works on small networks and applies eigentheory to calculate rankings for larger web graphs.
